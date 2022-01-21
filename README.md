@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ArcoReborn
 - 👀 I’m interested in reading and yoga~
-- 🌱 I’m currently learning js.
+- 🌱 I’m currently learning js, pug.
 - 📫 How to reach me in twitter: @Reborn_xaos 
 
 <!---
